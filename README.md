@@ -42,23 +42,28 @@ O SIGE integra **tudo em uma só plataforma**, com um dado de verdade único:
 
 <div align="center">
 
-### ERP Web
+### ERP Web — Dashboard
 <img src="assets/screenshots/dashboard-erp.png" alt="Dashboard do ERP" width="82%"/>
 
-### PDV Desktop (Tauri 2.0)
-<img src="assets/screenshots/pdv-desktop.png" alt="PDV Desktop" width="82%"/>
+### PDV — frente de caixa
+<img src="assets/screenshots/pdv-web.png" alt="PDV — frente de caixa" width="82%"/>
+
+> O mesmo PDV roda como **app desktop (Tauri 2.0/Rust)** com modo offline e auto-update — ideal para lojas com internet instável.
+
+### Onboarding guiado de novos clientes
+<img src="assets/screenshots/wizard-onboarding.png" alt="Wizard de onboarding" width="82%"/>
+
+### Controle de acesso fail-closed — matriz de permissões
+<img src="assets/screenshots/matriz-permissoes.png" alt="Matriz de permissões" width="82%"/>
+
+### Gestão de perfis (7 papéis, 67 módulos)
+<img src="assets/screenshots/gestao-perfis.png" alt="Gestão de perfis" width="82%"/>
 
 ### Cardápio Digital
 <img src="assets/screenshots/cardapio-digital.png" alt="Cardápio digital" width="82%"/>
 
 ### Gestor SaaS — visão multi-tenant
 <img src="assets/screenshots/gestor-saas.png" alt="Gestor SaaS" width="82%"/>
-
-### Onboarding guiado de novos clientes
-<img src="assets/screenshots/wizard-onboarding.png" alt="Wizard de onboarding" width="82%"/>
-
-### Controle de acesso fail-closed
-<img src="assets/screenshots/matriz-permissoes.png" alt="Matriz de permissões" width="82%"/>
 
 </div>
 
