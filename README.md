@@ -139,7 +139,7 @@ flowchart LR
 - 🔜 **v1.28+** — PIX/boleto/CNAB, multi-loja operacional, reativação da suíte E2E de venda
 - 🔭 **Horizonte** — marketplaces, BI avançado, app do cliente, parcerias com contadores
 
-Detalhes na [review de produto](docs/REVIEW-PRODUTO.md) e no [roadmap](docs/ROADMAP.md).
+Detalhes na [review de produto](docs/REVIEW-PRODUTO.md), no [roadmap](docs/ROADMAP.md) e no **[roadmap público do produto](https://seusige.com/roadmap.php)**.
 
 ---
 
@@ -149,7 +149,7 @@ O SIGE é um produto **real, em operação com cliente pagante**, construído po
 
 > ⚠️ **Este repositório é a vitrine pública do produto.** O código-fonte é proprietário e vive em repositórios privados — disponível para demonstração em processos seletivos e conversas com investidores e parceiros.
 
-**Quer ver o sistema rodando?** Fale comigo: [linkedin](https://linkedin.com/in/SEU-LINKEDIN) · e-mail · [seusige.com](https://seusige.com)
+**Quer ver o sistema rodando?** Fale comigo: [LinkedIn](https://www.linkedin.com/in/leonardosantosrn/) · [GitHub](https://github.com/leonardosanrn) · [seusige.com](https://seusige.com)
 
 ---
 

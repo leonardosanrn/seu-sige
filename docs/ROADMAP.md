@@ -1,6 +1,7 @@
 # Roadmap do Produto — SIGE
 
 > Visão pública de produto. Marcos concluídos e direção futura — sem detalhe de implementação.
+> Versão oficial e interativa: **[seusige.com/roadmap.php](https://seusige.com/roadmap.php)**
 
 ---
 

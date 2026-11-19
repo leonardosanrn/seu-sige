@@ -13,7 +13,7 @@ soluções que começam pelo web e "consertam depois", o SIGE foi desenhado ao r
 **frente de caixa real** — loja com internet instável, operador sem treinamento, caixa que
 precisa fechar certo.
 
-- **Estágio:** produção, cliente pagante ativo (plano Enterprise, R$ 499,90/mês).
+- **Estágio:** produção, cliente pagante ativo (plano Enterprise — sob consulta).
 - **Versão:** 1.27.0 (nov/2026) — suíte fiscal completa + controle de acesso fail-closed.
 - **Time:** desenvolvimento solo full-stack + infraestrutura + QA.
 
@@ -70,11 +70,13 @@ acrescentam "modo multi-empresa" sobre monólitos; aqui é a própria fundação
 
 ## 5. Modelo de negócio
 
-| Plano | Público | Módulos | Preço (referência) |
+| Plano | Público | Módulos | Preço |
 |---|---|---|---|
-| Essencial | PDV + estoque + cardápio | núcleo operacional | a partir de R$ 149/mês |
-| Profissional | + financeiro, fidelidade, fiscal | operação completa | ~R$ 299/mês |
-| **Enterprise** | tudo (67 módulos), multi-loja | full | **R$ 499,90/mês** |
+| **Free** | 1 usuário, 5 GB — testes e negócios que estão começando | 27 módulos | **R$ 0,00/mês** grátis para sempre |
+| **Profissional** | 10 usuários, 20 GB — pequenos negócios em operação | 63 módulos | **R$ 49,90/mês** ou R$ 497,00/ano (economize 17%) |
+| **Enterprise** | usuários ilimitados, 100 GB, gerente de conta dedicado, API personalizada | 67 módulos | **Sob consulta** — valor personalizado |
+
+*Valores conforme o [site oficial](https://seusige.com/#planos). Todos os planos incluem 30 dias de teste grátis, sem cartão de crédito, e cancelamento sem multas.*
 
 - **Módulos contratáveis por plano** (67 hoje) — upsell natural sem forçar upgrade de produto.
 - **Receita recorrente (MRR)** com churn baixo: ERP + PDV são críticos para o negócio rodar.
@@ -133,7 +135,7 @@ acrescentam "modo multi-empresa" sobre monólitos; aqui é a própria fundação
 |---|---|
 | **Investidores** | Validação de mercado, MRR e roadmap de expansão — aberto a apresentar números e demo |
 | **Parceiros** | Contadores, revendas de PDV, integradores de delivery |
-| **Recrutadores** | Este produto é meu portfólio vivo: full-stack, DevOps, segurança e produto — [fale comigo](https://github.com/leonardosanrn) |
+| **Recrutadores** | Este produto é meu portfólio vivo: full-stack, DevOps, segurança e produto — [LinkedIn](https://www.linkedin.com/in/leonardosantosrn/) · [GitHub](https://github.com/leonardosanrn) |
 
 ---
 
